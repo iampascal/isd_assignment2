@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/jaehyeokseong/Desktop/uts_jsp_workspace/tutorial/web/index.jsp</file>
+            <file>file:/Users/jaehyeokseong/Desktop/uts_jsp_workspace/tutorial/src/java/uts/isd/model/dao/DBManager.java</file>
+            <file>file:/Users/jaehyeokseong/Desktop/uts_jsp_workspace/tutorial/web/login.jsp</file>
+            <file>file:/Users/jaehyeokseong/Desktop/uts_jsp_workspace/tutorial/src/java/uts/isd/model/dao/DB.java</file>
+            <file>file:/Users/jaehyeokseong/Desktop/uts_jsp_workspace/tutorial/web/register.jsp</file>
+            <file>file:/Users/jaehyeokseong/Desktop/uts_jsp_workspace/tutorial/src/java/uts/isd/controller/LoginServlet.java</file>
+            <file>file:/Users/jaehyeokseong/Desktop/uts_jsp_workspace/tutorial/src/java/uts/isd/controller/connServlet.java</file>
+            <file>file:/Users/jaehyeokseong/Desktop/uts_jsp_workspace/tutorial/src/java/uts/isd/model/dao/DBConnector.java</file>
+        </group>
+        <group name="Group 20230317-03:51:23"/>
+    </open-files>
+</project-private>
